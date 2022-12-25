@@ -1,0 +1,43 @@
+{
+  "name": "Alex O'Reilly",
+  "description": "💻 Full-snack 🥼 Mad scientist 🤓 Curious about nearly everything
+00111010 00101001",
+  "image_url": "https://raw.githubusercontent.com/alekzandriia/my-links/main/profile-picture.jpeg",
+  "links": [
+  {
+      "title": "Blog",
+      "url": "https://www.alekz.dev",
+      "icon": "link"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alekzandriia/",
+      "icon": "linkedin"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/alekzandriia",
+      "icon": "github"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/alekzandriia",
+      "icon": "twitter"
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/alekzandriia/",
+      "icon": "instagram"
+    },
+    {
+      "title": "Medium",
+      "url": "https://medium.com/@alekzandriia",
+      "icon": "medium"
+    },
+    {
+      "title": "Spotify",
+      "url": "https://open.spotify.com/user/alekzandria",
+      "icon": "spotify"
+    }
+  ]
+}
